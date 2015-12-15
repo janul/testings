@@ -1,5 +1,4 @@
 {
   "@context" : "otto.jsonld",
-   
-
+  "otto:name": "test fed"
 }   
